@@ -1,6 +1,6 @@
 # Chronic-Kidney-Disease-Prediction
 
-This web application was developed using the **Flask** web framework. The predictive models were trained on comprehensive datasets, enabling high accuracy in predicting chronic kidney disease. 
+This web application was developed using the **Django** web framework. The predictive models were trained on comprehensive datasets, enabling high accuracy in predicting chronic kidney disease. 
 
 **Chronic-Kidney-Disease-Prediction**
 
