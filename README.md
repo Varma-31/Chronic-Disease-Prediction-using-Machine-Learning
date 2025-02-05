@@ -56,11 +56,9 @@ The dataset was used from Kaggle.
 
 ![image](https://static.vecteezy.com/system/resources/previews/002/756/180/original/computer-error-screen-a-man-s-face-with-a-broken-facial-expression-is-floating-in-a-pop-up-window-hand-drawn-style-design-illustrations-vector.jpg)
 
-### Do Reach out to me at TopMate for 1:1 connect 👉🏻 [Kidney Disease Prediction project spport](https://topmate.io/venkata_sreeram/1113594)
-Last Tested: 28/07/2024
 ## This will be useful for practicing machine learning.
 - If you like this Project - Give me a Star⭐
 - For more interesting Projects, Follow me on Github
-- [LinkedIN](https://linkedin.com/in/venkata-sreeram)
+- [LinkedIN](https://www.linkedin.com/in/varma-k-s-189356200/)
 #### Best regards:
-### Venkata Sreeram😊
+### Varma😊
